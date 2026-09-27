@@ -1,0 +1,204 @@
+class_date,class_time,company,studio,studio_num,coach,class_name,class_type,total_visits,pay_type,starter_rate,revenue_share_pct,revenue_per_visit,incentive_pay,total_class_pay,private_class,data_note,source_file,pay_estimated,data_source
+2026-05-01,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-01,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,4,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,11:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,12:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-02,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-03,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-04,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-04,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,9,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-06,19:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-06,20:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-08,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-08,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-09,11:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-09,12:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-09,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-10,14:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-10,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-10,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-10,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,4,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-11,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-11,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-15,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-15,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-15,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Starter,28.0,0.0,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,False,Class log
+2026-05-16,11:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-16,12:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-16,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.16,27.8,0.0,48.93,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-16,14:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,5,Standard,28.0,0.16,27.8,0.0,28.0,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-18,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.16,27.8,0.0,31.14,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-18,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-20,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-20,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-22,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-22,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-22,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,4,Standard,28.0,0.24,27.8,0.0,28.0,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-22,19:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-23,11:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-23,12:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Standard,28.0,0.16,27.8,0.0,66.72,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-23,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.16,27.8,0.0,28.0,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-25,11:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-25,12:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-27,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-29,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-29,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,20-29052026_Studio1_PaySlips.csv,False,Payslip
+2026-05-30,11:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-30,12:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-30,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-31,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.16,27.8,0.0,44.48,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-05-31,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Standard,28.0,0.16,27.8,0.0,66.72,100,,16-31052026_Studio2_PaySlips.csv,False,Payslip
+2026-06-01,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,7,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-01,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-03,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-05,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-05,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-05,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-05,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-05,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-05,19:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,6,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-06,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,4,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-06,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-07,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-07,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,6,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-10,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-10,19:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-10,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-12,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-12,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Starter,28.0,0.0,27.8,0.0,28.0,100,,05-12062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-13,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,3,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-13,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-15,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-15,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Starter,28.0,0.0,27.8,0.0,28.0,100,,01-15062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-17,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,100,,17-19062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-17,19:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-19062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-17,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.16,27.8,0.0,53.38,100,,17-22062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-18,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.24,27.8,0.0,40.03,100,,17-19062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-19,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.24,27.8,0.0,80.06,100,,17-19062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-19,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,13,Standard,28.0,0.24,27.8,0.0,86.74,100,,17-19062026_Studio1_PaySlips.csv,False,Payslip
+2026-06-22,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.16,27.8,0.0,40.03,100,,17-22062026_Studio2_PaySlips.csv,False,Payslip
+2026-06-22,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,17-22062026_Studio2_PaySlips.csv,False,Payslip
+2026-07-08,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-10,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,10-12072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-10,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,10-12072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-10,14:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,100,,10-12072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-10,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,100,,10-12072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-10,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-11,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,3,Standard,28.0,0.16,27.8,0.0,28.0,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-11,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.16,27.8,0.0,53.38,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-12,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,3,Standard,28.0,0.24,27.8,0.0,28.0,100,,10-12072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-13,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.16,27.8,0.0,40.03,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-13,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-15,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,08-15072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-16,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-16,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-17,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.24,27.8,0.0,80.06,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-17,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-18,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-18,11:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.24,27.8,0.0,80.06,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-18,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.16,27.8,0.0,35.58,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-18,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-19,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-19,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-20,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.16,27.8,0.0,48.93,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-20,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-22,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-22,19:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-22,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-29,19:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-29,20:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-30,14:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,4,Standard,28.0,0.16,27.8,0.0,28.0,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-30,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,13,Standard,28.0,0.16,27.8,0.0,57.82,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-30,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,16-30072026_Studio2_PaySlips.csv,False,Payslip
+2026-07-31,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-31,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-31,14:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-07-31,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.24,27.8,0.0,40.03,100,,17-31072026_Studio1_PaySlips.csv,False,Payslip
+2026-08-01,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-01,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,2,Standard,28.0,0.16,27.8,0.0,28.0,60,private_class differs from typical value (100),01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-01,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Standard,28.0,0.16,27.8,0.0,62.27,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-01,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.16,27.8,0.0,28.0,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-01,14:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.16,27.8,0.0,35.58,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-03,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-03,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.16,27.8,0.0,31.14,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-03,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-04,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-04,18:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-05,19:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-05,20:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.16,27.8,0.0,44.48,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-11,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-11,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-11,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-11,18:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,18,Standard,28.0,0.16,27.8,0.0,80.06,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-13,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-13,08:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.16,27.8,0.0,35.58,100,,01-13082026_Studio2_PaySlips.csv,False,Payslip
+2026-08-14,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-14,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,100,,01-14082026_Studio1_PaySlips.csv,False,Payslip
+2026-08-17,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-17,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.16,27.8,0.0,35.58,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-17,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Standard,28.0,0.16,27.8,0.0,62.27,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-18,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,4,Standard,28.0,0.24,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-18,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,3,Standard,28.0,0.24,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-18,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-21,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-21,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-22,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-22,11:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-22,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),cancelled,0,Standard,28.0,0.16,27.8,0.0,28.0,,"Cancelled, no attendees; paid $28 base",0105-15092026_ClassLog.xlsx,False,Class log
+2026-08-22,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.16,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-24,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-24,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.16,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-24,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-25,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-25,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,5,Standard,28.0,0.24,27.8,0.0,33.36,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-25,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-25,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-25,18:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-28,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-28,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,6,Standard,28.0,0.24,27.8,0.0,40.03,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-28,14:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,5,Standard,28.0,0.24,27.8,0.0,33.36,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-28,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-29,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-29,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,3,Standard,28.0,0.16,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-29,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.16,27.8,0.0,48.93,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-31,07:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-31,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.16,27.8,0.0,44.48,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-08-31,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-01,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-01,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-02,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-02,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-03,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Standard,28.0,0.16,27.8,0.0,62.27,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-03,08:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Standard,28.0,0.16,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-04,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-04,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-05,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,7,Standard,28.0,0.24,27.8,0.0,46.7,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-05,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.24,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-05,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,4,Standard,28.0,0.16,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-05,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.16,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-06,17:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,4,Standard,28.0,0.24,27.8,0.0,28.0,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-06,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,9,Standard,28.0,0.24,27.8,0.0,60.05,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-07,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,13,Standard,28.0,0.24,27.8,0.0,83.0,,Pay estimate capped at $83 maximum,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-08,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-08,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,10,Standard,28.0,0.24,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-08,17:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,17,Standard,28.0,0.16,27.8,0.0,75.62,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-08,18:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Standard,28.0,0.16,27.8,0.0,62.27,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-10,14:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-10,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,15,Standard,28.0,0.16,27.8,0.0,66.72,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-10,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,19,Standard,28.0,0.16,27.8,0.0,83.0,,Pay estimate capped at $83 maximum,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-11,08:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.24,27.8,0.0,83.0,,Pay estimate capped at $83 maximum,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-11,09:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,13,Standard,28.0,0.24,27.8,0.0,83.0,,Pay estimate capped at $83 maximum,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-12,10:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-12,06:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,8,Standard,28.0,0.16,27.8,0.0,35.58,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-12,07:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,14,Standard,28.0,0.16,27.8,0.0,62.27,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-12,08:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,13,Standard,28.0,0.16,27.8,0.0,57.82,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-13,13:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.16,27.8,0.0,48.93,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-13,14:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.16,27.8,0.0,53.38,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-14,18:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.24,27.8,0.0,80.06,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-14,15:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-14,16:30:00,ABC Studio,Studio 2,2,Jane Doe,Full Body (50 min),normal,16,Standard,28.0,0.16,27.8,0.0,71.17,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-15,15:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,11,Standard,28.0,0.24,27.8,0.0,73.39,,,0105-15092026_ClassLog.xlsx,True,Class log
+2026-09-15,16:00:00,ABC Studio,Studio 1,1,Jane Doe,Full Body (50 min),normal,12,Standard,28.0,0.24,27.8,0.0,80.06,,,0105-15092026_ClassLog.xlsx,True,Class log
